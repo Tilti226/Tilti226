@@ -17,12 +17,10 @@
 <a href="https://www.linkedin.com/in/b%C3%A1rbara-lago-barreira-5667b1244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1982c4?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ttilti226}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a4c93&height=120&section=footer"/>
