@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff595e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bárbara+Lago+Barreira;I'm+18+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/Tilti226/Tilti226/README.MD/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tilti226&show_icons=true&count_private=true&hide_border=true&title_color=6a4c93&icon_color=6a4c93&text_color=c9d1d9&bg_color=0d1117" alt="Bárbar Lago github stat" /> 
