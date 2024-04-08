@@ -6,7 +6,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tilti226&bg_color=0d1117&color=ff595e&line=8ac926&point=ff595e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tilti226&show_icons=true&count_private=true&hide_border=true&title_color=6a4c93&icon_color=6a4c93&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tilti226&show_icons=true&count_private=true&hide_border=true&title_color=6a4c93&icon_color=6a4c93&text_color=c9d1d9&bg_color=0d1117" alt="Bárbar Lago github stat" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilti226&layout=compact&hide_border=true&title_color=6a4c93&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
